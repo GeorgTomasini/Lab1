@@ -1,0 +1,10 @@
+﻿  Main.cpp
+d:\onlinegames\lab1_2\lab1\lab1\net.cpp(34): error C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winsock2.h(1830): note: see declaration of 'inet_addr'
+d:\onlinegames\lab1_2\lab1\lab1\net.cpp(116): error C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winsock2.h(1848): note: see declaration of 'inet_ntoa'
+d:\onlinegames\lab1_2\lab1\lab1\net.cpp(144): error C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winsock2.h(1830): note: see declaration of 'inet_addr'
+d:\onlinegames\lab1_2\lab1\lab1\net.cpp(147): warning C4101: 'bytes_sent': unreferenced local variable
+d:\onlinegames\lab1_2\lab1\lab1\net.cpp(174): error C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winsock2.h(1848): note: see declaration of 'inet_ntoa'
